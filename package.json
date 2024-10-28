@@ -9,12 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vueuse/core": "^11.1.0",
     "esbuild": "^0.24.0",
-    "excalibur": "^0.30.0-alpha.1231",
-    "get-pixels": "^3.3.3",
-    "pixi.js": "^8.5.2",
-    "vue": "^3.5.12"
+    "excalibur": "^0.30.0-alpha.1231"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.8.0",
