@@ -1,0 +1,28 @@
+{
+  "name": "stellaris",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^11.1.0",
+    "esbuild": "^0.24.0",
+    "excalibur": "^0.30.0-alpha.1231",
+    "get-pixels": "^3.3.3",
+    "pixi.js": "^8.5.2",
+    "vue": "^3.5.12"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.8.0",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "eslint": "^9.13.0",
+    "sass-embedded": "^1.80.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vue-tsc": "^2.1.8"
+  }
+}
